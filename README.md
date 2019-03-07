@@ -1,6 +1,7 @@
 # Server-Client Project
 
-EN: A program example of a client-server relationship on one computer.<br/>
+EN:<br/>
+A program example of a client-server relationship on one computer.<br/>
 Written in Python.<br/>
 <br/>
 Program Server Client Project requirments: <br/>
@@ -10,7 +11,8 @@ Program Server Client Project requirments: <br/>
 <br/>
 To run the program first run file server.py, then run file client.py<br/>
 <br/>
-SR: Projekat u obliku aplikacije koja predstavlja primer implementacije<br/> 
+SR:<br/>
+Projekat u obliku aplikacije koja predstavlja primer implementacije<br/> 
 klijentsko-serverske softverske arhitekture na jednom racunaru.<br/> 
 Raden je koristeci Python.<br/>
 <br/>
