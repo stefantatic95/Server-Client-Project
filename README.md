@@ -4,7 +4,7 @@ EN:<br/>
 A program example of a client-server relationship on one computer.<br/>
 Written in Python.<br/>
 <br/>
-Program Server Client Project requirments: <br/>
+Program Server Client Project requirements: <br/>
 -Installed Python 3.6<br/> 
 -Installed extantion library matplotlib <br/>
 -It is recommended to install PyCham for easier use<br/>
