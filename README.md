@@ -8,7 +8,7 @@ Program Server Client Project requirments: <br/>
 -Installed extantion library matplotlib <br/>
 -It is recommended to install PyCham for easier use<br/>
 <br/>
-To run the program first run server.py, then run client.py<br/>
+To run the program first run file server.py, then run file client.py<br/>
 <br/>
 SR: Projekat u obliku aplikacije koja predstavlja primer implementacije<br/> 
 klijentsko-serverske softverske arhitekture na jednom racunaru.<br/> 
